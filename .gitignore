@@ -1,0 +1,10 @@
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.yaml
+*.yaml.*
+*.yml
+*.yml.*
+*.json
+*.json*
+
